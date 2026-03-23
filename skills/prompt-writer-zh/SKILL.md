@@ -1,5 +1,5 @@
 ---
-name: llm-prompt-engineering
+name: prompt-writer-zh
 description: 提供系统化的LLM提示词编写与优化指导；当用户需要创建新提示词、优化现有提示词、学习提示词工程技巧或提升提示词质量时使用
 ---
 

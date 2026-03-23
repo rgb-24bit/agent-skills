@@ -1,5 +1,5 @@
 ---
-name: llm-prompt-engineering
+name: prompt-writer
 description: Provides systematic LLM prompt writing and optimization guidance; use when users need to create new prompts, optimize existing prompts, learn prompt engineering techniques, or improve prompt quality
 ---
 
