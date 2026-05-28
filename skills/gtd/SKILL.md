@@ -1,6 +1,6 @@
 ---
 name: gtd
-description: Personal task management system. Use when users want to manage tasks, track work items, list tasks, create subtasks, mark tasks done, check what to do next, or update task context. Handles agent-executed tasks, ad-hoc interrupts, and planned work items. Triggers on commands /gtd or gtd with subcommands: add, list, show, start, done, block, cancel, subtask, next, context, edit.
+description: Personal task management system. Use when users want to manage tasks, track work items, list tasks, create subtasks, mark tasks done, check what to do next, or update task context. Handles agent-executed tasks, ad-hoc interrupts, and planned work items. Triggers on commands /gtd or gtd with subcommands add, list, show, start, done, block, cancel, subtask, next, context, edit.
 ---
 
 # GTD — Personal Task Management
