@@ -13,6 +13,9 @@ Provides systematic LLM prompt writing and optimization guidance. Use when users
 ### [prompt-writer-zh](./skills/prompt-writer-zh/SKILL.md)
 Chinese version of the prompt-writer skill.
 
+### [domain-prompt-refinery](./skills/domain-prompt-refinery/SKILL.md)
+Turn an unclear problem in an unfamiliar domain into a professional, self-contained prompt for another AI. Invoke this skill explicitly when needed.
+
 ## License
 
 MIT License - see [LICENSE](./LICENSE) for details.
